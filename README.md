@@ -1,4 +1,4 @@
-# scrape_clean_college_data
+# Data Cleaning Project: Scraping and Cleaning High-Level U.S.-Based College Data
 Via Jupyter Notebook, scraping, compiling, and cleaning high-level U.S. college data collected from CollegeData.com.
 
 *Note:* Notebook file output is two separate CSV files:
